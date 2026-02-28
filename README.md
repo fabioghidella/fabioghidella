@@ -50,7 +50,7 @@ I work with:
 
 ## 📜 Certifications
 
-- Secure Coding
+- Overnet Secure Coding
 - GitHub Copilot (Udemy)
 
 ---
