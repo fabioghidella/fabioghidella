@@ -66,6 +66,7 @@ I work with:
 ---
 
 ## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/tuousername
 
 Open to opportunities in:
 - Full-Stack Development
