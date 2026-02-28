@@ -66,7 +66,7 @@ I work with:
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/tuousername
+- LinkedIn: https://www.linkedin.com/in/fabio-ghidella/
 
 Open to opportunities in:
 - Full-Stack Development
